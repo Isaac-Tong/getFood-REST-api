@@ -1,0 +1,130 @@
+TryGerman food!
+Spinat mit Spiegeleiern / Spinach with fried eggs and potatoes
+Hühnerfrikassee / Chicken Fricassee
+Milchreis / Rice pudding with sugar and cinnamon
+Bohnensuppe / Green bean soup
+Holunderbeerensuppe / Elderberry soup
+Senfeier / Eggs with mustard sauce
+Kartoffelpuffer mit Apfelmus / Potato pancake with apple sauce
+Berliner, Pfannkuchen / Jelly Doughnuts
+Maultaschen
+Hackepeter / Raw minced pork with bread rolls
+Kassler
+Schneckensuppe / Snail soup
+Krabbensuppe / Shrimp soup
+Leberwurst / Liverwurst
+Marzipan
+Matjes / Soused herring
+Mutzbraten / Grilled Pork
+Mohnkuchen / Poppy seed cake
+Rhabarbersuppe / Rhubarb soup
+Steckrübeneintopf / Rutabaga stew
+Flammkuchen / Tarte flambée
+Gulaschsuppe / Goulash soup
+Falscher Hase / Meatloaf
+Rinderrouladen / Rouladen
+Wurstsalat / Meat salad
+Büsumer Krabben / North Sea Shrimps
+Kartoffeln mit Quark / Potatoes with farmer’s cheese
+Kalter Hund / Hedgehog cake
+Jägerschnitzel
+Gurkensalat / Cucumber salad
+Schweinshaxe / Pork knuckle
+Strammer Max
+Hamburger Pannfisch / Pan fish
+Schmalzbrot / Bread with lard and roasted onions
+Scholle Finkenwerder / Plaice Finkenwerder style
+Königsberger Klopse
+Krautsalat / German Coleslaw
+Eisbein
+Kartoffelsuppe / Potato soup
+Kalbsleber mit Apfel / Fried Liver with Apple and Onions
+Rote Grütze
+Heringssalat
+Pfälzer Saumagen / Saumagen
+Weisswurst
+Germknödel with Poppy seed
+Bohnensalat / Green Bean salad
+Schweinerollbraten / Rolled Pork Roast
+Miesmuscheln in Weisswein / Mussels with White wine
+Frankfurter Grüße Sauce / Frankfurt Green Sauce
+Bethmännchen
+Pflaumenkuchen / Plum cake
+Kartoffelsalat / Potato salad
+Franzbrötchen / Cinnamon Bread roll
+Obatzda / Bavarian Cheese with Butter
+Spreewaldgurken / Spreewald gherkins
+Windbeutel
+Rollmops / Rolled Herring
+Spargel / Asparagus with Ham and Hollandaise sauce
+Fischbrötchen / Bread roll with fish
+Knipp / Knipp: mixed meat with grains
+Quarkkäulchen / Quark balls
+Döppekooche / Potato based dish
+Currywurst mit Pommes / Fried Sausage with curry powder and fries
+Stollen / Christmas Stollen
+Thüringer Klösse / Thuringian Boiled dumplings
+Leipziger Allerlei / Mixed vegetables
+Eierschecke
+Kieler Sprotten / Smoked sprats
+Bratkartoffeln / German fried potatoes
+Sahnehering / Herring in cream
+Brötchen / Bread rolls
+Karpfen / Baked carp with parsley
+Labskaus
+Handkäs mit Musik
+Apfelstrudel / Apple Strudel
+Semmelknödel / Dumplings
+Pfannkuchen / Pancake with Apple sauce
+Sauerkraut mit Würstchen / Sauerkraut with sausages
+Schupfnudeln
+Birnen, Bohnen und Speck / Pears, Beans and Bacon
+Lebkuchen / Gingerbread
+Linseneintopf / Lentil soup
+Spargelcremesuppe / Cream of asparagus soup
+Bratheringe / Fried Herring
+Bouletten / Frikadeller
+Sauerbraten
+Frittatensuppe / Flädle soup
+Käsespätzle / Cheese noodles
+Rostbratwurst / Thuringian sausage
+Schwarzwälder Kirschtorte / Black Forest cake
+Abendbrot / Bread with cold cuts for dinner
+Leberkäse
+Räucherfisch / Smoked fish
+Schmorgurken / Braised Cucumbers
+Kohlrouladen / Cabbage roll
+Schnitzel mit Pommes / Schnitzel with fries
+Schweinekrustenbraten / Crispy Pork Roast
+Erbsensuppe / Pea soup
+Gänsebraten / Roast Goose
+Grünkohl mit Pinkel / Kale with sausage and bacon
+1. Makizushi
+2. Miso Soup
+3. Yakitori
+4. Tempura
+5. Edamame
+6. Ramen
+8. Okonomiyaki
+10. Oden
+9. Sashimi
+11. Soba
+12. Natto
+14. Japanese Curry Rice
+15. Udon
+7. Mochi
+16. Kaiseki
+17. Yakiniku
+19. Yuba
+18. Takoyaki
+Cookies help us deliver our site. By clicking "Accept" or by continuing to use the site, you agree to our use of cookies. Visit our privacy policy, cookie policy and consent tool to learn more.  
+
+
+var cookie = document.cookie;
+if(cookie != null && cookie.indexOf('hideCookieWarning') != -1) {
+	document.getElementById('cookieConsent').innerHTML="<span class=smallblogy>Cookies help us deliver our services. By using our services, you agree to <a href=\"https://www.japan-talk.com/jt/new/cookies\">our use of cookies</a>.</span>";
+}
+
+Copyright 2002-2020 Japan Talk.  All rights reserved. This material may not be published, broadcast, rewritten, redistributed or translated. Report violations here.
+20. Sukiyaki
+13. Onigiri

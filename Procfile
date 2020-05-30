@@ -1,0 +1,1 @@
+web: endpoint.js
