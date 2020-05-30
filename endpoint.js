@@ -13,6 +13,10 @@ const client = new MongoClient(url);
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.send('Hi')
+
+})
 
 app.get('/api/random_food', (req, res) => {
   try {

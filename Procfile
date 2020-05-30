@@ -1,1 +1,1 @@
-web: endpoint.js
+web: node endpoint.js
