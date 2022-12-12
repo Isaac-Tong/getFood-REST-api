@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Isaac-Tong/getFood-REST-api#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-miner": "^3.0.0",
     "line-reader": "^0.4.0",
     "mongoose": "^5.9.16",
